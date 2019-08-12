@@ -8,3 +8,4 @@ namespace ECSalon.Models
     public virtual Stylist Stylist { get; set; }
   }
 }
+ 

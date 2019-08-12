@@ -69,3 +69,4 @@ namespace ECSalon.Controllers
       return RedirectToAction("Index");
     }
   }
+}
