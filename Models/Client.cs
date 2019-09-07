@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace ECSalon.Models
 {
   public class Client
@@ -8,4 +10,3 @@ namespace ECSalon.Models
     public virtual Stylist Stylist { get; set; }
   }
 }
- 
